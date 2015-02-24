@@ -1,0 +1,110 @@
+
+.container button#btn_show_solo {
+	display:none;
+}
+
+.container button#btn_show_multi {
+	display:none;
+}
+
+.container p#list_group {
+	text-decoration:blink;
+}
+
+.container .myTable {
+	width:100%;
+}
+
+.container #defi_solo {
+	width:600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.container #defi_multi {
+	width:600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.container .sized {
+	width:600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container table th {
+	text-align:center;
+}
+
+.container table th button{
+	float:right;
+}
+
+.container table ul {
+	list-style:none;
+	margin:0;
+}
+
+.container table .name {
+	width:150px;
+}
+
+.container table .center {
+	text-align:center;
+}
+
+.container table .percent {
+	width:10%;
+}
+
+.container table .cent {
+	width:100px;
+}
+
+.container table .dsgn {
+	width:200;
+}
+
+.container table .action {
+	width:70px;
+}
+/*
+.container table .time {
+	width:100px;
+}
+*/
+.container table .ccq {
+	width:150px;
+}
+
+.container table form.form1 {
+	float:left;
+}
+
+.container table form.form2 {
+	float:left;
+}
+
+.container table .clear {
+	clear:both;
+}
+
+.container-fluid table .center {
+	text-align:center;
+}
+
+
+.footer {
+	padding: 30px 0px;
+	margin-top: 70px;
+	max-height: 200px;
+	border-top: 1px solid rgb(229,229,229);
+	background-color:#eeeeee;
+}
+
+/*.footer p {
+	color: #E3CC86;
+}*/
